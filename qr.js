@@ -62,13 +62,13 @@ router.get('/', async (req, res) => {
                 const string_session = mega_url.replace('https://mega.nz/file/', '')
 				   let sessionmsg = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: 'cyber-x@;;;' + string_session });
 	
-				   let SIGMA_MD_TEXT = `*QR Scanned Successfully*
+				   let SIGMA_MD_TEXT = `* Pair Code Connecting Successfully*
 
 Don't share this code with any others
 
-https://whatsapp.com/channel/0029Va5EQi7CRs1lXmZYKw0x
+https://wa.me/94740952096
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋᴀʟᴘʜᴀxᴛᴇᴀᴍ*`
+*ᴄᴏʀᴅᴇᴅ ʙʏ ꜱᴀᴅᴇᴇᴘᴀ ᴄʜᴀᴍᴜᴅɪᴛʜ*`
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:sessionmsg})
 
 

@@ -65,9 +65,9 @@ router.get('/', async (req, res) => {
 
 Don't share this code with any others
 
-https://whatsapp.com/channel/0029Va5EQi7CRs1lXmZYKw0x
+https://wa.me/94740952096
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋᴀʟᴘʜᴀxᴛᴇᴀᴍ*`
+*ᴄᴏʀᴅᴇᴅ ʙʏ ꜱᴀᴅᴇᴇᴘᴀ ᴄʜᴀᴍᴜᴅɪᴛʜ*`
 	 await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:sessionmsg })
 
 
